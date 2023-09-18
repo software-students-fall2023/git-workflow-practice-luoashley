@@ -9,3 +9,5 @@ I think this article is very interesting and useful to me. Code reviewing is hig
 
 ## Comment 
 The article explains the importance and strategies for code review. It is concise and clear in format by using charts and bullet points, which is easy to understand. Good article!
+
+By Yimeng Duan
